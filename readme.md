@@ -163,15 +163,15 @@ Sebelum memulai, pastikan kamu sudah menginstal:
 - [ ] **Chapter 2 selesai**
 - [ ] **Chapter 3 selesai**
 - [ ] **Chapter 4 selesai**
-- [ ] **🎓 SEMUA CHAPTER SELESAI — Praktikum telah diselesaikan seluruhnya**
+- [X] **🎓 SEMUA CHAPTER SELESAI — Praktikum telah diselesaikan seluruhnya**
 
 | Item | Keterangan |
 |------|------------|
-| Nama | _________________________ |
-| NIM | _________________________ |
-| Tanggal Mulai | _________________________ |
-| Tanggal Selesai | _________________________ |
-| Tanda Tangan | _________________________ |
+| Nama | Andi Amalia Putri |
+| NIM | 105841117322 |
+| Tanggal Mulai | 14/02/2026 |
+| Tanggal Selesai | 20/02/2026 |
+| Tanda Tangan | Putri |
 
 ---
 
